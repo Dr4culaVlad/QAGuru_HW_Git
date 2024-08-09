@@ -14,7 +14,7 @@ public class first_test {
 
 
         // Открыть форму авторизации
-        open("https://qa.guru/cms/system/login");
+        open("https://qa.guru/cms/system/logif");
         // Ввести почту
         $("[name=email]").setValue("qagurubot@gmail.com");
         // ввести пароль
